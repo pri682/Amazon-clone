@@ -19,6 +19,4 @@ Welcome to my Amazon Clone project. I’ve put together a sleek web page that ca
    - Shop Section: Styles for product category boxes, including images and text.
    - Footer: Styles for the footer panels, including background colors, layout, and text formatting.
 
-I’ve made sure that the design adjusts smoothly to different screen sizes. Whether you’re on a desktop or mobile device, everything should look and work great!
-
 Feel free to explore, and I hope you find this project as enjoyable to use as it was to build! If you have any questions or feedback, just let me know. 😊
