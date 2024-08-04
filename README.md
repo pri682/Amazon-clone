@@ -5,14 +5,13 @@ Welcome to my Amazon Clone project. I’ve put together a sleek web page that ca
 ## What’s Inside?
 
  **HTML Structure:**
-   Overview:
    The HTML file provides the structure and content for the web page. It includes the following sections:
    - Header: Contains the navigation bar with logo, address, search bar, and user account options.
    - Hero Section: Displays a prominent message with a background images
    - Shop Section: Features various product categories displayed as boxes with images and descriptions.
    - Footer: Contains information panels, including links, payment options, help sections, and a logo.
    
-   **CSS File**
+   **CSS File:**
    The CSS file styles the HTML elements to create a visually appealing and responsive design. Key styles include:
    - Global Styles: Sets global margin, font-family, and box-sizing.
    - Navbar: Styles for navigation bar, including logo and interactive elements.
